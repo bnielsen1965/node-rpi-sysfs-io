@@ -1,0 +1,22 @@
+{
+  "name": "rpi-sysfs-io",
+  "version": "1.0.0",
+  "description": "A NodeJS module for Raspberry PI gpio and pwm io through the linux sysfs interface.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnielsen1965/node-rpi-sysfs-io.git"
+  },
+  "keywords": [
+    "sysfs",
+    "gpio",
+    "pwm",
+    "raspberry",
+    "pi"
+  ],
+  "author": "Bryan Nielsen <bnielsen1965@gmail.com> (https://github.com/bnielsen1965)",
+  "license": "MIT"
+}
