@@ -1,6 +1,6 @@
 {
   "name": "rpi-sysfs-io",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A NodeJS module for Raspberry PI gpio and pwm io through the linux sysfs interface.",
   "main": "lib/index.js",
   "scripts": {
